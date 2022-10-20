@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/val/SayHello/SayHello.csproj": {}
+    "/Users/val/Documents/CodeStack/Level1/miniChallengesUpload/SayHello/SayHello.csproj": {}
   },
   "projects": {
-    "/Users/val/SayHello/SayHello.csproj": {
+    "/Users/val/Documents/CodeStack/Level1/miniChallengesUpload/SayHello/SayHello.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/val/SayHello/SayHello.csproj",
+        "projectUniqueName": "/Users/val/Documents/CodeStack/Level1/miniChallengesUpload/SayHello/SayHello.csproj",
         "projectName": "SayHello",
-        "projectPath": "/Users/val/SayHello/SayHello.csproj",
+        "projectPath": "/Users/val/Documents/CodeStack/Level1/miniChallengesUpload/SayHello/SayHello.csproj",
         "packagesPath": "/Users/val/.nuget/packages/",
-        "outputPath": "/Users/val/SayHello/obj/",
+        "outputPath": "/Users/val/Documents/CodeStack/Level1/miniChallengesUpload/SayHello/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/val/.nuget/NuGet/NuGet.Config"
