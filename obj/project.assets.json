@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/val/.nuget/packages/": {}
+    "C:\\Users\\zac22\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/val/Documents/CodeStack/Level1/miniChallengesUpload/SayHello/SayHello.csproj",
+      "projectUniqueName": "C:\\Users\\zac22\\Documents\\~Programming\\Level1\\program_Stuff\\GithubPeerReviews\\ValerieSayHello\\SayHello\\SayHello.csproj",
       "projectName": "SayHello",
-      "projectPath": "/Users/val/Documents/CodeStack/Level1/miniChallengesUpload/SayHello/SayHello.csproj",
-      "packagesPath": "/Users/val/.nuget/packages/",
-      "outputPath": "/Users/val/Documents/CodeStack/Level1/miniChallengesUpload/SayHello/obj/",
+      "projectPath": "C:\\Users\\zac22\\Documents\\~Programming\\Level1\\program_Stuff\\GithubPeerReviews\\ValerieSayHello\\SayHello\\SayHello.csproj",
+      "packagesPath": "C:\\Users\\zac22\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\zac22\\Documents\\~Programming\\Level1\\program_Stuff\\GithubPeerReviews\\ValerieSayHello\\SayHello\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/val/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\zac22\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

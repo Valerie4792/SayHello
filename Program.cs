@@ -13,6 +13,10 @@
 //assigned the variable name a value of User input
 //Have the output display "Hello" with the variable name, which is now assigned a value of user input
 
+//peer reviewed by Zac Rice
+//works well, I appreciate the smiley face
+
+
 String name;
 
 
